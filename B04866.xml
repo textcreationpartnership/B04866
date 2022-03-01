@@ -1,0 +1,215 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A proposition for the making of farthings, by the royal authority for publick use.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660-1669?</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 19 KB of XML-encoded text transcribed from 6 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B04866</idno>
+            <idno type="STC">Wing P3774C</idno>
+            <idno type="STC">ESTC R182208</idno>
+            <idno type="EEBO-CITATION">51617497</idno>
+            <idno type="OCLC">ocm 51617497</idno>
+            <idno type="VID">175328</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B04866)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 175328)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2729:10)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A proposition for the making of farthings, by the royal authority for publick use.</title>
+               </titleStmt>
+               <extent>10 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.,</publisher>
+                  <pubPlace>[London :</pubPlace>
+                  <date>166-].</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title.</note>
+                  <note>Place of publication from Wing.</note>
+                  <note>Suggested approximate date from internal evidence.</note>
+                  <note>Reproduction of the original in the National Library of Scotland.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Coinage --  Great Britain --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-09</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Sampled and proofread</change>
+         <change>
+            <date>2010-01</date>
+            <label>Kayla Ondracek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="proposition">
+            <pb facs="tcp:175328:1"/>
+            <!-- PDF PAGE 79 -->
+            <pb n="1" facs="tcp:175328:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 79 -->
+            <head>A Propoſition for the Making of <hi>Farthings,</hi> by the Royal Authority for Publick uſe.</head>
+            <p>THere have formerly been ſeveral Grants. 1. To the Lord <hi>Harrington;</hi> 2. To the Dutcheſſe Dowa<g ref="char:EOLhyphen"/>ger of <hi>Lenox;</hi> the laſt, to the Lord <hi>Maltravers,</hi> and Sir <hi>Francis Crane,</hi> for the making of <hi>Farthings</hi> of Braſſe and Copper to paſſe His Majeſties Kingdoms and Dominions of <hi>England, Wales, Ireland,</hi> and Plantations, with command (by Proclamation) that none other ſhould be ſuffered to paſſe; And this
+<list>
+                  <head>For theſe Reaſons, <hi>viz.</hi>
+                  </head>
+                  <item>1. <hi>For preventing of abuſes by ſuch as made and uſed their own</hi> Farthings <hi>without Authority.</hi>
+                  </item>
+                  <item>2. <hi>The ſaving of</hi> Bullion.</item>
+                  <item>3. <hi>The Benefit of Commerce.</hi>
+                  </item>
+                  <item>4. <hi>The Relief of the Poor.</hi>
+                  </item>
+               </list>
+            </p>
+            <p>But thoſe <hi>Farthings</hi> being made of ordinary Metals, and eaſie to be imitated by the Counterfeiters of <hi>Holland,</hi> and others at home, and thereby found no leſſe prejudicial to the Patentees, then the Nation; the Metal was changed, and thoſe <hi>Farthings</hi> by Marks of Diſtinction, and His late Majeſties Letters Pattents, and Orders to the Lord <hi>Maltravers,</hi> and Sir <hi>Francis Crane,</hi> 11 of His Reign, were regulated.</p>
+            <pb n="2" facs="tcp:175328:2"/>
+            <!-- PDF PAGE 80 -->
+            <p>But this Patent alſo during the late Rebellion expiring, one <hi>Ra<gap reason="illegible" resp="#UOM" extent="1+ letters">
+                     <desc>•…</desc>
+                  </gap>adge</hi> (ſometimes an Underworker in the Mint) whilſt he lived, did, and divers others ſince in <hi>London,</hi> and within the Lines of Communication, without Autho<g ref="char:EOLhyphen"/>rity, now do take upon them to make ſeveral ſorts of <hi>Farthings,</hi> of ſeveral ordinary Metals, for hundreds of Traders and Retailers in and about <hi>London,</hi> as alſo in ſeve<g ref="char:EOLhyphen"/>ral other Incorporate Towns; who (as they pretend) cauſe the ſame to be made for their particular uſes only, un<g ref="char:EOLhyphen"/>der colour or promiſe of taking them again, at the ſame value they paſſed them for, (when-ever returned;) which certainly if they did really ſo, were yet unlawful for any Society or Corporation, much leſſe for any perſon to pra<g ref="char:EOLhyphen"/>ctiſe at his own will and pleaſure.</p>
+            <div type="objections">
+               <head>Againſt which abuſe, the Objections following (amongſt others) are juſtly to be made and inſiſted on, <hi>viz.</hi>
+               </head>
+               <p n="1">1. That this Irregularity is a Limb of Anarchy, and a Relique of that ſpecious popular pretence to Liberty, con<g ref="char:EOLhyphen"/>nived at by the late Uſurpers, and a direct Incroachment upon the Royal Prerogative, to which only the licenſing of all ſorts of Coyn (National or Forreign) belongs, with an abſolute Power for the advance, abatement and allay of the Species of all ſorts of Coyns currant, or to be prohi<g ref="char:EOLhyphen"/>bited within its Dominions.</p>
+               <p n="2">2. It's a direct cheat upon, and injury to the Subject and Publique Weal, for the meer lucre and advantage of certain private and particular perſons only; many of which (under pretence of advantage to Commerce) make great advan<g ref="char:EOLhyphen"/>tage by this liberty to themſelves, ſome 10, 15, 20 <hi>
+                     <abbr>l.</abbr> per</hi> Man in the yeer (and ſome more. And though by pro<g ref="char:EOLhyphen"/>miſe, and under the colour at leaſt of an Aſſurance to take them again at the rates they paſſe them for, yet they are ſel<g ref="char:EOLhyphen"/>dome found willing to receive them (when returned) e<g ref="char:EOLhyphen"/>ſpecially in quantities.</p>
+               <pb n="3" facs="tcp:175328:2"/>
+               <!-- PDF PAGE 80 -->
+               <p n="3">3. If any of theſe Retailers come to remove their habita<g ref="char:EOLhyphen"/>tions, or break (which many of them often do) all the <hi>Far<g ref="char:EOLhyphen"/>things</hi> are loſt to thoſe that have any of them on their hands; and though they do remain, or not turn Bankrupts, yet by this device they oblige, and in a manner neceſſitate all who have of their <hi>Farthings</hi> on their hands, to trade therewith with themſelves only, becauſe they are not elſewhere Cur<g ref="char:EOLhyphen"/>rant with others; which (as they manage it, theſe <hi>Far<g ref="char:EOLhyphen"/>things</hi> ſeldome coming back to them without other better money) makes much for ſuch Retailers advantage, and conſequently by that bondage, proves to be the greater In<g ref="char:EOLhyphen"/>conveniency to all dealers with them; which <hi>Farthings</hi> allowed by publick Authority would remedy.</p>
+               <p n="4">4. This liberty of late taken up, is found no leſſe pre<g ref="char:EOLhyphen"/>judicial to the Poor, who for want of authorized ſmall mo<g ref="char:EOLhyphen"/>neys, eſpecially <hi>Farthings,</hi> miſſe many an Alms, and that which is therein given them of little uſe, for thoſe <hi>Farthings</hi> now uſed (not being paſſable as before, except with thoſe perſons only that make and give them out) are of little benefit to the poor or any other at a diſtance; be<g ref="char:EOLhyphen"/>ſides, ſince thoſe that make them, will hardly ſell any thing for <hi>Farthings</hi> only, but at double the rate, the poor as well as others ſuffer by it, which proves the Cheat to be the greater.</p>
+               <p n="5">5. Laſtly, many of thoſe that beſpeak and utter theſe unauthorized <hi>Farthings,</hi> often come to loſe by them them<g ref="char:EOLhyphen"/>ſelves, eſpecially ſuch as are honeſt, value their Reputa<g ref="char:EOLhyphen"/>tion and ſtand upon their Credits, when ever they call in their <hi>Farthings</hi> (as ſome of them uſe to do once a year, and change their Tokens) many times find double the quan<g ref="char:EOLhyphen"/>tities they ordered to be made under their ſtamps, obtruded on them by thoſe they intruſted to make them, or put upon them by others that counterfeit them, which is alſo become an ordinary practice, and thereby ſome of the honeſteſt have loſt 10, or 20 <hi>
+                     <abbr>l.</abbr> per</hi> Man in a yeer, for their portion<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#UOM" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>r ſhares, beſides what the poor and common ſort of Sub<g ref="char:EOLhyphen"/>jects ſuffer by it.</p>
+            </div>
+            <div type="part">
+               <pb n="4" facs="tcp:175328:3"/>
+               <!-- PDF PAGE 81 -->
+               <head>For Remedy againſt which unſufferable A<g ref="char:EOLhyphen"/>buſe, ſince the allowing of <hi>Farthings,</hi> well regulated, might be ſo general a Com<g ref="char:EOLhyphen"/>modity, and that without them the Poor will want much of their Relief, and every petty Retailer, of all ſorts, would ſuffer ſo much in his Trade (as is obvious to all) if none were ſuffered.</head>
+               <p>It is humbly propoſed,</p>
+               <p n="1">1. THat ſuch a Metal (if poſſible) might be found out and fixed on, as in all probability at leaſt might pre<g ref="char:EOLhyphen"/>vent all importation by the <hi>Hollanders,</hi> and from other Forreign parts, as well as the uſual abuſe by Counterfei<g ref="char:EOLhyphen"/>ters at home.</p>
+               <p n="2">2. That in Caſe ſuch a Metal as propoſed could be found out, certainly it would be more fit then Farthings of ſuch Metal only were ſuffered to paſſe in ſuch form and manner, as by the Royal Authority might be approved, then that every one as now ſhould be left at liberty, or other Far<g ref="char:EOLhyphen"/>things ſuffered to paſſe then ſuch as might be allowed and di<g ref="char:EOLhyphen"/>rected by His Majeſty.</p>
+               <div type="objections">
+                  <head>The uſual Objections to which, by ſuch as now take Liberty in the Contrary, are ſuitable to each Man's Genius or Intereſt, <hi>viz.</hi>
+                  </head>
+                  <p n="1">1. Some ſay that it will be a diſhonour to His Majeſty, and the Nation, to allow or tolerate any baſe Coyn.</p>
+                  <pb n="5" facs="tcp:175328:3"/>
+                  <!-- PDF PAGE 81 -->
+                  <p n="2">2. Others that it will be impoſſible to find out ſuch a Metal as may not be Counterfeit.</p>
+                  <p n="3">3. That if they be made of any baſe Mettal equivalent to their denomination, they will be of ſuch a Magnitude and Weight, as will be cumberſome and untraſſiqueable.</p>
+                  <p n="4">4. And ſuppoſing they could be made of any Metal that could not be counterfeit, and ſuch as might anſwer the full intrinſique value (excepting the Manufactures only, which is as reaſonable to be allowed in this, as at the Mint for Standard money) yet whatever ſhall be allowed to the Office for the faſhion and Manufacture of ſuch Farthings, in the Exchange, will be ſo much loſſe as the faſhion comes to, to every Subject that takes them either for Commo<g ref="char:EOLhyphen"/>dity or in Exchange for other money.</p>
+                  <p n="5">5. Others ſay that all Farthings now uſed (if recalled) will be ſo much loſſe to thoſe that have made any under their own ſtamps for their private uſe.</p>
+                  <p n="6">6. And the Retailer by this means may come to have ſometime 10 or 20 pounds worth of ſuch Farthings at a time upon his hands, which if he cannot pay out and vent again, as well as take for Commodities, having quan<g ref="char:EOLhyphen"/>tities on his hands, they will lye as ſo much dead ſtock upon him, and conſequently be ſo much loſſe.</p>
+                  <p n="7">7. Then if at the Office any of them ſhall be refuſed mony in Exchange for ſuch as he brings back thither, he can have no remedy but by a Suit at Law, which would be a tedious Inconveniency and Grievance.</p>
+                  <p n="8">8. And laſtly, if the Office it ſelf or Undertakers (whoever) ſhould fail by Death or Breaking, or deſiſting of the Office, which after it have made and vented 10 or 20000 pounds worth in Farthings or more) poſſibly may be, (beſides the Diſhonour thereby to His Majeſty) there will be ſo much loſſe to the poorer Subjects.</p>
+               </div>
+               <div type="answers">
+                  <pb n="6" facs="tcp:175328:4"/>
+                  <!-- PDF PAGE 82 -->
+                  <head>In Anſwer to which Objections it may be Replied.</head>
+                  <p n="1">1. And to the firſt thereof, that neither <hi>Spain</hi> or <hi>France,</hi> not any other Kingdome or Republique of Chriſtendome, (better inabled with Silver and Bullion, or both, then <hi>England</hi> is) finding it a neceſſity rather then a Convenien<g ref="char:EOLhyphen"/>cy, that think it any Diſhonour to give an Allay (at leaſt) to all their ſmall moneys paſſable within their own Domi<g ref="char:EOLhyphen"/>nions, their reaſon for this being, as well for ſaving the charge of the Mint, as for preventing the loſſe of Silver, and as well for the eaſe of Commerce, as their Poors re<g ref="char:EOLhyphen"/>lief; ſo not diſagreeable with the Cuſtomes and Policy of all other Chriſtian Nations, nor certainly can any thing be rightly called diſhonourable to any Prince or State, which in it ſelf is not unjuſt or unequal, burthenſome or deſtructive to its Subjects, which upon a due Examination of the Propoſitions following, it's humbly conceived the making and authorizing of publique Farthings of ſuch a Metal, and ſo qualified as is found out and propoſed, will not appear to be, at leaſt not to be ſo great an Inconve<g ref="char:EOLhyphen"/>niency, as the permiſſion of every one to make (which is not only an Incroachment upon, and diſhonour to the Roy<g ref="char:EOLhyphen"/>al Authority, but an apparent actual Burden and injury to the Subject, as before declared, in likelyhood will be.</p>
+                  <p n="2">2. In Anſwer to the ſecond Objection, and to make it appear that there may be ſuch a Metal found out, for the making of Farthings, as if not impoſſible, will be more dif<g ref="char:EOLhyphen"/>ficult to be counterfeit then Gold or Silver.</p>
+                  <pb n="7" facs="tcp:175328:4"/>
+                  <!-- PDF PAGE 82 -->
+                  <list>
+                     <head>Obſerve but the Reaſons following.</head>
+                     <item>1. The Metal propoſed for this uſe, is not hitherto known to be had in any part of the World but in His Majeſties own Dominions (and for that the more pro<g ref="char:EOLhyphen"/>per) nor in any part thereof, yet diſcovered, but in one place, and that in His Majeſties Power and Com<g ref="char:EOLhyphen"/>mand.</item>
+                     <item>2. It hath this quality and hidden ſecret in it, that it will hardly intermix with any other but of its own na<g ref="char:EOLhyphen"/>ture and ſpecies, Male and Female.</item>
+                     <item>3. Though it be tough enough of it ſelf for this uſe, yet there is not any way yet diſcovered to reduce it to be fully Malleable, and thereby the fitter alſo for this uſe, the harder to be Counterfeit, and eaſier to be diſcovered if any one ſhould attempt it; ſince no compound Me<g ref="char:EOLhyphen"/>tal can be made like it.</item>
+                     <item>4. In its Nature it is as wholſome and as ſweet as ſil<g ref="char:EOLhyphen"/>ver, neither Smells, Ruſts, or Cankers, ſomething harder, and ſo ſullies leſſe (if any thing) and next unto Silver (of which it hath nothing in it) endures fire the beſt, and in the fire, rather improving then abating ought of its Colour, which is diſtinct from all other Metals, and for that reaſon alſo the leſſe Counter<g ref="char:EOLhyphen"/>feitable.</item>
+                     <item>5. For a final Anſwer, and to free His Majeſty from the leaſt of indignity by it, and the moſt ſuſpicious from the danger of any damage by Counterfeiting it, there may be ſuch marks given to it, and ſuch ſignes denoted with it, that every cómon eye may eaſily diſcern it from any other Metal that can be Counterfeited; ſo that if His Majeſty and His Councel ſhall be pleas'd to allow of Farthings to be made of this Metal to paſs univerſally by publique Authority and none other, the Propoſers know<g ref="char:EOLhyphen"/>ing this Metal to be ſo different and diſtinct in its nature
+<pb n="8" facs="tcp:175328:5"/>
+                        <!-- PDF PAGE 83 -->from all other, and impoſſible almoſt to Counterfeit it (having ſuch powers and privileges granted as formerly for their Inabling) offer, within ſix months warning to furniſh all His Majeſties Dominions with a ſufficient quantity of Farthings of this Metal, and to give in ſufficient Secu<g ref="char:EOLhyphen"/>rity before they enter upon it, at all times to return the value they paſs for in <hi>ſterling</hi> money when returned to the Office broken or whole, abating onely one in twenty for the faſhion as formerly, which (if the Security be good, and performance anſwerable) will make Far<g ref="char:EOLhyphen"/>things ſo allow'd to be made and paſt within His Majeſties Dominions equal with any other Coyn His Majeſty makes and allows to paſs for Standard.</item>
+                  </list>
+                  <p n="3">3. The laſt Anſwer may alſo ſerve for the third Objecti<g ref="char:EOLhyphen"/>on, for if (as is before offered) ſuch Farthings be recei<g ref="char:EOLhyphen"/>ved back, with the rebate onely of one in twenty for the faſhion, it will not be much material to the Uſer whether their intrinſique value be anſwerable to their denomination or no? and then if the Makers cauſe them not to be made of ſuch convenient ſize for weight and magnitude as may be grateful to the Uſer, they will ſhew themſelves the more imprudent, and be the greateſt Loſers by it; but in this certainly they ought to be obliged to ſuch a pattern as His Majeſty and Councel may be pleaſed to appoint, and ſhall think fit to agree to be moſt commodious for uſe.</p>
+                  <p n="4">4. What's ſaid before (if perform'd) will anſwer the fourth Objection alſo in all but the charge for Faſhion, for which he that brings any Farthings to change for Money is to pay only as formerly in Braſſe (one in Twenty) which is alſo to be allowed to any that takes them out, and ſo will be as broad as long; whereas thoſe that now make and vent Farthings without Authority, ſell and make the Buyers pay five times the price that the Metal of which they are made, is worth; all which is loſt to the Dealer if broken under his hands or melted, or the party under whoſe ſtamp they paſs,
+<pb n="9" facs="tcp:175328:5"/>
+                     <!-- PDF PAGE 83 -->break or but remove his habitation; whereas in the other way the Propoſers offer, by taking the Metal back melted broken or whole at one in twenty loſs, and proportionably will be a far leſs loſs if any.</p>
+                  <p n="5">5. To the fifth it may be anſwered, that he that breaks my hedges to make himſelf a way through my Lands, may as well complain of being put back into the road; or he that makes him cloaths of my cloth without my conſent, cry out that by Law he is forced to pay me for it; as he that hath made Farthings without the Royal Aſſent, Stamp and Authority, to be forbidden their further uſe; he may pre<g ref="char:EOLhyphen"/>tend a damage in ſome ſort poſſibly by it, but no wrong, or (if any) nothing but what's done by and to himſelf, con<g ref="char:EOLhyphen"/>trary to the Law, and the King no party to it.</p>
+                  <p n="6">6. In anſwer to the ſixth Objection, there is more offe<g ref="char:EOLhyphen"/>red for remedy then ever was formerly provided againſt the like Doubts by any Grant from the Crown, <hi>viz.</hi> That no man be bound to take Farthings in any groſs payments, or for any Commodity, or for Debt, contrary to his liking; nor any Servant or Labourer for his Wages, bur at his owne Election; nor otherwiſe, but either as a Gift in charity, or in order to the exchange of ſmall Money; or for Diet, Drink or edible things; or for the eaſe of commerce and petty Sums, where ſuch exchange is needful, and both parties are willing and agree unto it for their owne conveni<g ref="char:EOLhyphen"/>ency: And if at any time any ſuch Retailer ſhall find him<g ref="char:EOLhyphen"/>ſelf overcharg'd with greater quantities then may be for his conveniency to keep at one time by him for his uſe, for one in twenty he may have Money paid him for them in <hi>London</hi> at the Office to be appointed for that uſe; and ſo in every City or Town corporate through <hi>England,</hi> &amp;c. where-ever any ſuch Farthings ſhall be vented or allowed to paſs, and men of ability in all ſuch places furniſhed for that ſervice; ſo no Trader need to have above 20 <abbr>
+                        <hi>s.</hi>
+                     </abbr> in his hands at once, nor any of the Poor (that had rather have their little ſtocks in money) want a ſhilling or ſix-pence at any time.</p>
+                  <pb n="10" facs="tcp:175328:6"/>
+                  <!-- PDF PAGE 84 -->
+                  <p n="7">7. If the Office ſhall refuſe to return Money for Far<g ref="char:EOLhyphen"/>things to any in exchange (allowing the allow'd rebate) as is objected, but is hardly imaginable, it being for their ad<g ref="char:EOLhyphen"/>vantage, it is but reaſon the next Juſtice without Fee or other allowance, ſhould have power to doe the aggreived party right by diſtreſs or otherwiſe, and ſee his loſs or time (whoever damnified) ſatisfied; which will ſoon put an end to any difference of that kind without charge, if any ſuch ſhould be, or delay be uſed.</p>
+                  <p n="8">8. The laſt objection ſeems to ſavour more of willingneſs to find Objections and a fault then to hearken to a remedy for it, it not being likely but that if His Majeſty and His Councel ſhall think fit to allow the Undertaking, that they would be ſo unwary in a buſineſs of ſo publick and general a concernment, as not to be careful to chooſe reſponſible perſons for its execution and overſight, and if ſix good men can be found capable to ſecure 400000 <hi>
+                        <abbr>l.</abbr> per ann.</hi> of His Majeſties Revenue to Him, there is no great doubt to be made but ſuch men may be left alſo for this as the ſtricteſt Uſurer in <hi>London</hi> could not object againſt, if that were the onely queſtion, and ſuch great Security needful; which (to ſay truth) in this buſineſs will not be, for put but honeſt and prudent perſons to officiate it, the buſineſs will ſecure it ſelf; which when required and time ſerves, may eaſily and fully be demonſtrated in every particular.</p>
+               </div>
+               <epigraph>
+                  <q>
+                     <hi>And whereas His Majeſty now ha's nothing, he may have ſome addition to His Revenue by it.</hi>
+                  </q>
+               </epigraph>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
